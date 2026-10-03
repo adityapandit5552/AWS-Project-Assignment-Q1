@@ -1,6 +1,6 @@
 # AWS Q1 – S3 Static Website
 
-## Project Overview
+## Project Overview ⭐
 
 This project demonstrates the deployment of a static website using **Amazon S3 Static Website Hosting**.
 
@@ -121,11 +121,15 @@ The following tests were performed:
 - Tested the JavaScript deployment button.
 - Confirmed the deployment success message was displayed.
 
+## working web url ⭐
+
+http://aditya-aws-static-website-2026.s3-website.ap-south-1.amazonaws.com/
+
 ## Result
 
 The static website was successfully deployed using **Amazon S3 Static Website Hosting** and accessed through the S3 website endpoint.
 
-## Screenshots
+## Screenshots ⭐
 
 ### 1. S3 Bucket Objects
 
